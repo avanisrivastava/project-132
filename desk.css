@@ -1,0 +1,13 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+a{
+    background-color: black;
+    float: right;
+    font-size: 20px;
+    margin: 5px;
+    cursor:pointer;
+    
+}
